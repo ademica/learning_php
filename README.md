@@ -3,11 +3,11 @@ This part is a beginner guide for creating repo on github
 1. Initialize a Local Repository:
 
    1. Create a local folder for learning_php project
-   2. Run git init that creates a hidden .git folder, turning the project into a Git repository.
+   2. Run git init that creates a hidden .git folder, turning the folder into a Git repository.
 
 2. Stage and Commit Files
 
-   1. Create README.md file
+   1. Inside folder create README.md file
    2. Run git add
    3. Run git commit -m "Initial commit
 
